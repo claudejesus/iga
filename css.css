@@ -1,0 +1,239 @@
+.Home {
+  width: 1200px;
+  height: 865px;
+  flex-grow: 0;
+  padding: 24px 0 0;
+  background-color: #fff;
+}
+
+.IGA-LOg {
+    width: 145px;
+    height: 38px;
+    margin: 0 19px 24px 70px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 7.75px;
+    text-align: center;
+    color: #000;
+  }
+
+.Welcome-to-the-Rwanda-1-IGA-Munyarawanda {
+    width: 1014px;
+    height: 63px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 42px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3b82f6;
+  }
+  .ida-1 {
+    width: 1084px;
+    height: 170px;
+    margin: 106px 34px 119px 82px;
+    padding: 10.6px 0 0 100px;
+    background-color: #478af5ce;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    /* border: #3b82f6;
+    box-shadow: #020a18;
+    shape-outside: margin-box; */
+  }
+
+    .Frame-63 {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5.3px;
+    margin: 146px 16px 42px 19px;
+    padding: 10.6px 0.5px;
+    border-radius: 5.8px;
+    box-shadow: 0 0 1.1px 0.5px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+  .Sector {
+    width: 52px;
+    height: 23px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000;
+  }
+
+  .Frame-64 {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5.3px;
+    margin: 146px 16px 42px;
+    padding: 10.6px 0.5px;
+    border-radius: 5.8px;
+    box-shadow: 0 0 1.1px 0.5px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+  .District {
+    width: 58px;
+    height: 23px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000;
+  }
+
+  .Frame-65 a {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5.3px;
+    margin: 146px 16px 42px;
+    padding: 10.6px 0.5px;
+    border-radius: 5.8px;
+    box-shadow: 0 0 1.1px 0.5px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+
+  .Frame-66 {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5.3px;
+    margin: 146px 16px 42px 11px;
+    padding: 10.6px 0.5px;
+    border-radius: 5.8px;
+    box-shadow: 0 0 1.1px 0.5px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+  .IGA {
+    width: 28px;
+    height: 23px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000;
+  }
+
+  .schools {
+    width: 63px;
+    height: 23px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000;
+  }
+
+  .Frame-67 {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5.3px;
+    margin: 146px 152px 42px 1px;
+    padding: 10.6px 0.5px;
+    border-radius: 5.8px;
+    box-shadow: 0 0 1.1px 0.5px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+  .Min-Duc {
+    width: 65px;
+    height: 23px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000;
+  }
+
+  .join {
+    width: 734px;
+    height: 38px;
+    margin: 42px 266px 112px 200px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+  .Frame-98 {
+    width: 1200px;
+    height: 71px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 26px 0 0;
+    padding: 0;
+    background-color: #1e3a8a;
+  }
+  .footer {
+    width: 999px;
+    height: 38px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
